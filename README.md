@@ -7,7 +7,7 @@
 
 
 ## Screenshots
-<img src="./img/flappy1.PNG" alt="" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/flappy2.PNG" alt="" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/flappy3.PNG" alt="" width="200"/>
+<img src="./img/flapy1.PNG" alt="" width="200" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/flappy2.PNG" alt="" width="200" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/flappy3.PNG" alt="" width="200" height="200"/>
 
 
 
